@@ -22,3 +22,4 @@ var AppNavigator = createSwitchNavigator({
 });
 
 const AppContainer = createAppContainer(AppNavigator);
+// Voce pode nao querer mudar nada
